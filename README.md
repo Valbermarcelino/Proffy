@@ -9,6 +9,7 @@
 ### Pra rodar:
 
 - de um yarn start no server que esta no meu git como Proffy-server e depois de um yarn start no neste projeto
+- usar números no lugar do dia (ex:segunda-feira → 1)
 ---
 
 ## Alguns comandos importantes
